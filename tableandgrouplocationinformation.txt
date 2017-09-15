@@ -1,0 +1,3 @@
+Team Members: Sydney Richards and Sophia Mitchellette
+
+PD Tables are located in mitc0417 database. Everything else for this lab is in the rich1143 database.
